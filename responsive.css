@@ -1,0 +1,28 @@
+@media(max-width: 1000px) {
+	.calculator {
+		width: 100%;
+	}
+
+	.display-box {
+		width: 100%;
+	}
+
+	tr {
+		width: 100%;
+	}
+}
+
+@media(max-width: 670px) {
+	.calculator {
+		width: 100%;
+	}
+
+	.display-box {
+		width: 100%;
+	}
+
+	tr {
+		width: 100%;
+	}
+}
+
